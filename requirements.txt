@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu
+scikit-learn
+tensorflow
+keras
+nltk
+joblib
+pillow
+requests
+numpy
+librosa
+ipython
